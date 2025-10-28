@@ -1,6 +1,6 @@
 ## Hi there 👋
-PhD. Mechanical Eng.- Marmara University
-Msc. Mechanical Eng.- Marmara University
+- PhD. Mechanical Eng.- Marmara University
+- Msc. Mechanical Eng.- Marmara University
 Bsc. Mechanical Eng.- SDU
 Bsc. Physicists (Double M.) - SDU
 Microsoft Software Specialist
