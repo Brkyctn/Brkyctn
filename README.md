@@ -1,14 +1,15 @@
-## Hi there 👋
+<!--! ## Hi there 👋
+-->
 - PhD. Mechanical Eng.- Marmara University
 - Msc. Mechanical Eng.- Marmara University
-Bsc. Mechanical Eng.- SDU
-Bsc. Physicists (Double M.) - SDU
-Microsoft Software Specialist
-CFD Specialist
-ANSYS - Fluent Specialist
-UAV CFD Specialist
+- Bsc. Mechanical Eng.- SDU
+- Bsc. Physicists (Double M.) - SDU
+- Microsoft Software Specialist
+- CFD Specialist
+- ANSYS - Fluent Specialist
+- UAV CFD Specialist
 
-<--
+<!--
 **Brkyctn/Brkyctn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
